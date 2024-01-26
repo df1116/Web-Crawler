@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gOBBwqPe5SJavRyo4/ZS/CUfmYFJEJHdbPAx++i+spTLx+fbFdPGmC1EsbFzLuOCT1afi8TNdDXXhsAaBlQtpQ==",
+  "success": true,
+  "projectFilePath": "/Users/libertyaskew/Documents/Coding/DanielFreakeMonzo/WebCrawler/WebCrawler.csproj",
+  "expectedPackageFiles": [
+    "/Users/libertyaskew/.nuget/packages/htmlagilitypack/1.11.57/htmlagilitypack.1.11.57.nupkg.sha512"
+  ],
+  "logs": []
+}
